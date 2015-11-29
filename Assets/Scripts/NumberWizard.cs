@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class NumberWizard : MonoBehaviour {
+public class NumberWizard2 : MonoBehaviour {
 
 	//declare global variables
 	int max;
