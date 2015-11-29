@@ -21,7 +21,7 @@ public class NumberWizard : MonoBehaviour {
 		guess = 500;
 		
 		print ("========================");
-		print("Welcome to number wizard!!!");
+		print("Welcome to number wizard!");
 		print ("Pick a number in your head, but don't tell me...");
 		
 		print("the highest number you can pick is " + max);
